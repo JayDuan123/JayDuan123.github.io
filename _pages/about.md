@@ -50,6 +50,8 @@ I am an undergraduate student at the **University of Wisconsin-Madison**. I am c
 <br>
 Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 
+<img src="/images/csfm.png" width="100%" alt="Pipeline for discovering interpretable cardiac foundation-model features with sparse autoencoders">
+
 **InterBench: An Interpretable Benchmark for Cardiopulmonary Foundation Models**
 <br>
 Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
