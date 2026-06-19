@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, I am **Jay Yixuan Duan**.
 
-I am an undergraduate student at the **University of Wisconsin-Madison**. I am currently a Junior student. I am working with Professor [Wei Qiu](https://profiles.rice.edu/faculty/wei-qiu) and [Lei Hou](https://www.bumc.bu.edu/genetics/genetics-people/faculty/lei-hou-ph-d/). Before that, I worked with Dr. [Chao Wang](https://szbl.ac.cn/research/groups/Chao-Wang.htm). My work focuses on biomedical foundation models, interpretable AI, multi-omics integration, and AI for precision health.
+I am an undergraduate student at the **University of Wisconsin-Madison**. I am currently a Junior student. I am working with Professor [Wei Qiu](https://profiles.rice.edu/faculty/wei-qiu) and [Lei Hou](https://www.bumc.bu.edu/genetics/genetics-people/faculty/lei-hou-ph-d/). Before that, I worked with Dr. [Chao Wang](https://szbl.ac.cn/research/groups/Chao-Wang.htm). My work focuses on biomedical foundation models, interpretable AI, multi-omics integration, and AI for precision health. I am going to apply for 27 Fall PHD in Computer Science, Computitional Biology and Bioinformatics.
 
 <span class='anchor' id='-edu'></span>
 
@@ -29,12 +29,12 @@ I am an undergraduate student at the **University of Wisconsin-Madison**. I am c
 
 <img class="svg" src="/images/uw-madison-logo.png" width="45pt"> <span style="color: #c5050c;">**University of Wisconsin-Madison**</span>
 <br>
-- *Expected Graduate in May 2027*, Bachelor of Science in Computer Science
+- *Expected to Graduate in May 2027*, Bachelor of Science in Computer Science
 - GPA: 3.83 / 4.0
-- Relevant Coursework: Data Structures and Algorithms, Deep Learning, Artificial Intelligence, Molecules to Life and Science
+- Relevant Coursework: Data Structures and Algorithms, Deep Learning, Artificial Intelligence, Big Data Systems, Advanced Natural Language Processing, Molecules to Life and Science
 <span class='anchor' id='-research'></span>
 
-# Research Interests
+# 🚀 Research Interests
 
 - Biological Foundation Model
 - AI for Precision Health
@@ -44,7 +44,7 @@ I am an undergraduate student at the **University of Wisconsin-Madison**. I am c
 
 <span class='anchor' id='-pub'></span>
 
-# Publications
+# 📖 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/csfm.png' alt="Cardiac SAE pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,14 +104,14 @@ Manuscript in preparation, 2026.
 *Jun. 2025 - Aug. 2025*, Advisor: Dr. Chao Wang, Institute of Systems and Physical Biology, Shenzhen Bay Laboratory
 <span class='anchor' id='-skills'></span>
 
-# Skills
+# 💪 Skills
 
 - Linux, Python, R, Java, SQL
 - ECG and PPG analysis, RNA-seq, scRNA-seq, scATAC-seq, DNA methylation
 
 <span class='anchor' id='-award'></span>
 
-# Awards
+# 🏆 Awards
 
 - 2026 UW-Madison Dean's List
 - 2026 UW-Madison Undergraduate Summer Award
