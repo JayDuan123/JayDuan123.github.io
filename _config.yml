@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jay Yixuan Duan"
-  avatar           : 
+  avatar           : "/images/selfpicture.png"
   bio              : "B.S. in Computer Science, University of Wisconsin-Madison"
   location         : "Madison, WI"
   employer         : "University of Wisconsin-Madison"
