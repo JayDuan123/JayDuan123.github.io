@@ -96,6 +96,7 @@ Manuscript in preparation, 2026.
 **Graph-based integration model of scATAC-seq and DNA methylation**
 <br>
 *Jan. 2026 - Present*, Advisor: Professor Lei Hou, Department of Medicine, Biomedical Genetics Section, Boston University
+<br>
 <img class="svg" src="/images/szbl.png" width="85pt"> <span style="color: #1765ad;">**Shenzhen Bay Laboratory**</span>
 <br>
 **Modeling glycan-protein binding strength**
