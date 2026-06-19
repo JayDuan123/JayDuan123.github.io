@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Jay Yixuan Duan"
 title_separator          : "-"
 name                     : &name "Jay Yixuan Duan"
-description              : &description "Personal academic homepage of Jay Yixuan Duan"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Computer Science undergraduate at the University of Wisconsin-Madison"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://JayDuan123.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Jay Yixuan Duan"
   pronouns         : # example: "she/her"  
-  bio              : "Personal academic homepage"
-  location         : 
-  employer         : 
+  bio              : "B.S. in Computer Science, University of Wisconsin-Madison"
+  location         : "Madison, WI"
+  employer         : "University of Wisconsin-Madison"
   uri              : # URL
-  email            : 
+  email            : "yduan54@wisc.edu"
 
   # Academic websites
   academia         : # URL
