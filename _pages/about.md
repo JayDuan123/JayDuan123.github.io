@@ -31,7 +31,7 @@ I am a junior student at the **University of Wisconsin-Madison**. I am working w
 <br>
 - *Expected to Graduate in May 2027*, Bachelor of Science in Computer Science
 - GPA: 3.83 / 4.0
-- Relevant Coursework: Data Structures and Algorithms, Deep Learning, Artificial Intelligence, Big Data Systems, Advanced Natural Language Processing, Molecules to Life and Science
+- Relevant Coursework: Data Structures and Algorithms, Deep Learning, Artificial Intelligence, Big Data Systems, Human Computer Interaction, Advanced Natural Language Processing, Molecules to Life and Science
 <span class='anchor' id='-research'></span>
 
 # 🚀 Research Interests
