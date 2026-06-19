@@ -40,7 +40,6 @@ I am an undergraduate student at the **University of Wisconsin-Madison**. I am c
 - AI for Precision Health
 - Interpretable AI
 - Multi-omics Integration
-- Sparse Autoencoders for Biomedical Representation Analysis
 
 <span class='anchor' id='-pub'></span>
 
