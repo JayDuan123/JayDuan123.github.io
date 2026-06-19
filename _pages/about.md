@@ -60,9 +60,19 @@ Manuscript in preparation, 2026.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/bench.png' alt="InterBench benchmark overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **InterBench: An Interpretable Benchmark for Cardiopulmonary Foundation Models**
-<br>
-Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
+
+`Yixuan Duan`, Wei Qiu
+
+Manuscript in preparation, 2026.
+
+- Designed an interpretable benchmark for evaluating cardiopulmonary foundation models.
+- Organized ECG, PPG, and related biomedical tasks around clinically meaningful concepts and phenotypes.
+- Evaluated model representations with a focus on interpretability, downstream prediction, and concept-level analysis.
+</div>
+</div>
 
 <span class='anchor' id='-experience'></span>
 
