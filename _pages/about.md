@@ -58,7 +58,7 @@ Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 
 # 💻 Research Experience
 
-<img class="svg" src="/images/logo-rice.svg" width="85pt"> <span style="color: #00205b;">**Rice University**</span>
+<img class="svg" src="/images/logo-rice.svg" width="45pt"> <span style="color: #00205b;">**Rice University**</span>
 <br>
 **Discovering interpretable features in foundation models via sparse autoencoders**
 <br>
@@ -67,7 +67,7 @@ Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 - Applied sparse autoencoders to decompose internal representations into sparse and interpretable latent features.
 - Analyzed top-activating samples and linked SAE features to waveform patterns, clinical reports, ICD phenotypes, and disease-related concepts.
 
-<img class="svg" src="/images/logo-rice.svg" width="85pt"> <span style="color: #00205b;">**Rice University**</span>
+<img class="svg" src="/images/logo-rice.svg" width="45pt"> <span style="color: #00205b;">**Rice University**</span>
 <br>
 **Disentangling aging-related signals in foundation model representations**
 <br>
