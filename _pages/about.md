@@ -56,8 +56,10 @@ Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 
 <span class='anchor' id='-experience'></span>
 
-# Research Experience
+# 💻 Research Experience
 
+<img class="svg" src="/images/logo-rice.svg" width="85pt"> <span style="color: #00205b;">**Rice University**</span>
+<br>
 **Discovering interpretable features in foundation models via sparse autoencoders**
 <br>
 *Apr. 2026 - Present*, Advisor: Professor Wei Qiu, Department of Electrical and Computer Engineering, Rice University
@@ -65,6 +67,8 @@ Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 - Applied sparse autoencoders to decompose internal representations into sparse and interpretable latent features.
 - Analyzed top-activating samples and linked SAE features to waveform patterns, clinical reports, ICD phenotypes, and disease-related concepts.
 
+<img class="svg" src="/images/logo-rice.svg" width="85pt"> <span style="color: #00205b;">**Rice University**</span>
+<br>
 **Disentangling aging-related signals in foundation model representations**
 <br>
 *Feb. 2026 - Apr. 2026*, Advisor: Professor Wei Qiu, Department of Electrical and Computer Engineering, Rice University
@@ -72,6 +76,8 @@ Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 - Designed an ACE-style disentanglement strategy to separate aging-related transcriptomic variation from tissue, sex, batch, and other background factors.
 - Developed evaluation strategies for transcriptomic aging embeddings, epigenetic age prediction, age acceleration prediction, cross-tissue generalization, and biological interpretation of aging-related genes.
 
+<img class="svg" src="/images/logo-bu.svg" width="75pt"> <span style="color: #cc0000;">**Boston University**</span>
+<br>
 **Graph-based integration model of scATAC-seq and DNA methylation**
 <br>
 *Jan. 2026 - Present*, Advisor: Professor Lei Hou, Department of Medicine, Biomedical Genetics Section, Boston University
@@ -79,6 +85,8 @@ Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 - Generated cell-by-peak and cell-by-CpG methylation matrices across 40 donors.
 - Designed a TF-CRE-CpG graph framework to use DNA methylation embeddings for predicting differentially methylated CpGs and inferring dysregulated CRE modules and transcription factor regulatory programs.
 
+<img class="svg" src="/images/logo-szbl.jpg" width="85pt"> <span style="color: #1765ad;">**Shenzhen Bay Laboratory**</span>
+<br>
 **Modeling glycan-protein binding strength**
 <br>
 *Jun. 2025 - Aug. 2025*, Advisor: Dr. Chao Wang, Institute of Systems and Physical Biology, Shenzhen Bay Laboratory
