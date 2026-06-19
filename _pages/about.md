@@ -29,7 +29,7 @@ I am an undergraduate student at the **University of Wisconsin-Madison**. I am c
 
 <img class="svg" src="/images/uw-madison-logo.png" width="45pt"> <span style="color: #c5050c;">**University of Wisconsin-Madison**</span>
 <br>
-- *Expected May 2027*, Bachelor of Science in Computer Science
+- *Expected Graduate in May 2027*, Bachelor of Science in Computer Science
 - GPA: 3.83 / 4.0
 - Relevant Coursework: Data Structures and Algorithms, Deep Learning, Artificial Intelligence, Molecules to Life and Science
 <span class='anchor' id='-research'></span>
