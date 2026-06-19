@@ -58,7 +58,7 @@ Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 
 # 💻 Research Experience
 
-<img class="svg" src="/images/logo-rice.svg" width="45pt"> <span style="color: #00205b;">**Rice University**</span>
+<img class="svg" src="/images/rice.png" width="45pt"> <span style="color: #00205b;">**Rice University**</span>
 <br>
 **Discovering interpretable features in foundation models via sparse autoencoders**
 <br>
@@ -67,7 +67,7 @@ Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 - Applied sparse autoencoders to decompose internal representations into sparse and interpretable latent features.
 - Analyzed top-activating samples and linked SAE features to waveform patterns, clinical reports, ICD phenotypes, and disease-related concepts.
 
-<img class="svg" src="/images/logo-rice.svg" width="45pt"> <span style="color: #00205b;">**Rice University**</span>
+<img class="svg" src="/images/rice.png" width="45pt"> <span style="color: #00205b;">**Rice University**</span>
 <br>
 **Disentangling aging-related signals in foundation model representations**
 <br>
@@ -85,7 +85,7 @@ Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 - Generated cell-by-peak and cell-by-CpG methylation matrices across 40 donors.
 - Designed a TF-CRE-CpG graph framework to use DNA methylation embeddings for predicting differentially methylated CpGs and inferring dysregulated CRE modules and transcription factor regulatory programs.
 
-<img class="svg" src="/images/logo-szbl.jpg" width="85pt"> <span style="color: #1765ad;">**Shenzhen Bay Laboratory**</span>
+<img class="svg" src="/images/szbl.png" width="85pt"> <span style="color: #1765ad;">**Shenzhen Bay Laboratory**</span>
 <br>
 **Modeling glycan-protein binding strength**
 <br>
