@@ -83,37 +83,24 @@ Manuscript in preparation, 2026.
 **Discovering interpretable features in foundation models via sparse autoencoders**
 <br>
 *Apr. 2026 - Present*, Advisor: Professor Wei Qiu, Department of Electrical and Computer Engineering, Rice University
-- Encoded raw ECG and PPG biomedical signals into hidden activations and embeddings using pretrained foundation models.
-- Applied sparse autoencoders to decompose internal representations into sparse and interpretable latent features.
-- Analyzed top-activating samples and linked SAE features to waveform patterns, clinical reports, ICD phenotypes, and disease-related concepts.
 
 <img class="svg" src="/images/rice.png" width="45pt"> <span style="color: #00205b;">**Rice University**</span>
 <br>
 **Disentangling aging-related signals in foundation model representations**
 <br>
 *Feb. 2026 - Apr. 2026*, Advisor: Professor Wei Qiu, Department of Electrical and Computer Engineering, Rice University
-- Used bulk RNA-seq and scRNA-seq foundation model backbones as encoders.
-- Designed an ACE-style disentanglement strategy to separate aging-related transcriptomic variation from tissue, sex, batch, and other background factors.
-- Developed evaluation strategies for transcriptomic aging embeddings, epigenetic age prediction, age acceleration prediction, cross-tissue generalization, and biological interpretation of aging-related genes.
+
 
 <img class="svg" src="/images/logo-bu.svg" width="75pt"> <span style="color: #cc0000;">**Boston University**</span>
 <br>
 **Graph-based integration model of scATAC-seq and DNA methylation**
 <br>
 *Jan. 2026 - Present*, Advisor: Professor Lei Hou, Department of Medicine, Biomedical Genetics Section, Boston University
-- Constructed a microglia multi-omics dataset from scATAC-seq and snm3C-seq data.
-- Generated cell-by-peak and cell-by-CpG methylation matrices across 40 donors.
-- Designed a TF-CRE-CpG graph framework to use DNA methylation embeddings for predicting differentially methylated CpGs and inferring dysregulated CRE modules and transcription factor regulatory programs.
-
 <img class="svg" src="/images/szbl.png" width="85pt"> <span style="color: #1765ad;">**Shenzhen Bay Laboratory**</span>
 <br>
 **Modeling glycan-protein binding strength**
 <br>
 *Jun. 2025 - Aug. 2025*, Advisor: Dr. Chao Wang, Institute of Systems and Physical Biology, Shenzhen Bay Laboratory
-- Constructed a queryable database for glycan-protein binding strengths and binding sites.
-- Encoded structural and sequence information from glycans and proteins for deep learning model comparison.
-- Trained models to predict glycan-protein binding strength and binding sites from molecular structure and sequence information.
-
 <span class='anchor' id='-skills'></span>
 
 # Skills
