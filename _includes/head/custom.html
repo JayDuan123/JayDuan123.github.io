@@ -20,5 +20,29 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var offset = 10000;
+    var source = document.getElementById("busuanzi_value_site_pv");
+    var target = document.getElementById("site-views");
+    if (!source || !target) return;
+
+    var updateViews = function () {
+      var rawValue = source.textContent.replace(/,/g, "").trim();
+      var views = parseInt(rawValue, 10);
+      if (!Number.isNaN(views)) {
+        target.textContent = (views + offset).toLocaleString();
+        return true;
+      }
+      return false;
+    };
+
+    var attempts = 0;
+    var timer = setInterval(function () {
+      attempts += 1;
+      if (updateViews() || attempts > 40) clearInterval(timer);
+    }, 250);
+  });
+</script>
 
 <!-- end custom head snippets -->
