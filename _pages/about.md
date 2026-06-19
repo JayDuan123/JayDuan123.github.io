@@ -21,9 +21,7 @@ redirect_from:
 
 Hi, I am **Jay Yixuan Duan**.
 
-I am an undergraduate student at the **University of Wisconsin-Madison**, pursuing a Bachelor of Science in Computer Science. My work focuses on biomedical foundation models, interpretable AI, multi-omics integration, and AI for precision health.
-
-My GitHub profile is [JayDuan123](https://github.com/JayDuan123). You can also download my [CV](/files/CV_Jay.pdf).
+I am an undergraduate student at the **University of Wisconsin-Madison**. I am currently a Junior student. I am working with Professor [Wei Qiu](https://profiles.rice.edu/faculty/wei-qiu) and [Lei Hou](https://www.bumc.bu.edu/genetics/genetics-people/faculty/lei-hou-ph-d/). Before that, I worked with Dr. [Chao Wang](https://szbl.ac.cn/research/groups/Chao-Wang.htm). My work focuses on biomedical foundation models, interpretable AI, multi-omics integration, and AI for precision health.
 
 <span class='anchor' id='-edu'></span>
 
