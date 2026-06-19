@@ -46,11 +46,19 @@ I am an undergraduate student at the **University of Wisconsin-Madison**. I am c
 
 # Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/csfm.png' alt="Cardiac SAE pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Discovering Interpretable Features in Cardiac Multi-Modality Foundation Models via Sparse Autoencoders**
-<br>
-Yixuan Duan, Wei Qiu. Manuscript in preparation, 2026.
 
-<img src="/images/csfm.png" width="100%" alt="Pipeline for discovering interpretable cardiac foundation-model features with sparse autoencoders">
+`Yixuan Duan`, Wei Qiu
+
+Manuscript in preparation, 2026.
+
+- Encoded raw ECG and PPG biomedical signals into hidden activations and embeddings using pretrained foundation models.
+- Applied sparse autoencoders to decompose internal representations into sparse and interpretable latent features.
+- Analyzed top-activating samples and linked SAE features to waveform patterns, clinical reports, ICD phenotypes, and disease-related concepts.
+</div>
+</div>
 
 **InterBench: An Interpretable Benchmark for Cardiopulmonary Foundation Models**
 <br>
