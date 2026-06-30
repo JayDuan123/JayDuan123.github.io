@@ -45,6 +45,20 @@ I am a junior student at the **University of Wisconsin-Madison**. I am working w
 
 # 📖 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2027</div><img src='/images/interecgfm-pipeline.png' alt="InterECGFM pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**InterECGFM: What ECG Foundation Model will learn?**
+
+`Yixuan Duan`, Sadeer Al-Kindi, Wei Qiu
+
+Submitting to KDD 2027.
+
+- Investigated what ECG foundation models learn from large-scale ECG data.
+- Decomposed hidden representations with sparse autoencoders to identify interpretable ECG concepts.
+- Connected learned features to disease discovery, concept control, downstream prediction, and LLM-assisted feature annotation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/csfm.png' alt="Cardiac SAE pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Discovering Interpretable Features in Cardiac Multi-Modality Foundation Models via Sparse Autoencoders**
