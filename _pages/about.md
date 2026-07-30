@@ -45,6 +45,20 @@ I am a junior student at the **University of Wisconsin-Madison**. I am working w
 
 # 📖 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2027</div><img src='/images/ecg-interpbench.png' alt="ECG-InterpBench overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**ECG-InterpBench: Benchmarking the Interpretability of ECG Foundation Models with Matched-Scale Sparse Autoencoders**
+
+`Yixuan Duan`, Wei Qiu
+
+Submitting to KDD 2027.
+
+- Proposed a capacity-controlled benchmark that compares representation-level interpretability across six frozen ECG foundation models under a matched sparse-autoencoder protocol.
+- Built a 450-cell matched-scale interpretability atlas over five encoder depths, five dictionary widths, and three seeds, with leakage-controlled metrics for sparse reconstruction fidelity, single-feature clinical concept accessibility and coverage (49 ECG measurements), and cross-seed reproducibility.
+- Provided robust comparisons using patient- and design-level uncertainty, sparsity sensitivity, and an external MIMIC-IV-ECG replication.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/cadence.png' alt="CADENCE pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models**
