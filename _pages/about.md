@@ -59,6 +59,20 @@ Submitting to KDD 2027.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/cadence.png' alt="CADENCE pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models**
+
+`Yixuan Duan`, Arjun Naik, Sadeer Al-Kindi, Wei Qiu
+
+arXiv preprint, 2026. [[arXiv]](https://arxiv.org/abs/2607.25244)
+
+- Built a dictionary of interpretable "cardiac atoms" to decompose the internal representations of ECG foundation models.
+- Extracted human-understandable neural concepts from learned features and linked them to clinically meaningful cardiac patterns.
+- Enabled interpretable analysis and concept-level probing of ECG foundation model representations.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/csfm.png' alt="Cardiac SAE pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Discovering Interpretable Features in Cardiac Multi-Modality Foundation Models via Sparse Autoencoders**
