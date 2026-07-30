@@ -59,20 +59,6 @@ arXiv preprint, 2026. [[arXiv]](https://arxiv.org/abs/2607.25244)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/csfm.png' alt="Cardiac SAE pipeline" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Discovering Interpretable Features in Cardiac Multi-Modality Foundation Models via Sparse Autoencoders**
-
-`Yixuan Duan`, Wei Qiu
-
-Manuscript in preparation, 2026.
-
-- Encoded raw ECG and PPG biomedical signals into hidden activations and embeddings using pretrained foundation models.
-- Applied sparse autoencoders to decompose internal representations into sparse and interpretable latent features.
-- Analyzed top-activating samples and linked SAE features to waveform patterns, clinical reports, ICD phenotypes, and disease-related concepts.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/bench.png' alt="InterBench benchmark overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **InterBench: An Interpretable Benchmark for Cardiopulmonary Foundation Models**
