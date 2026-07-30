@@ -83,7 +83,7 @@ arXiv preprint, 2026. [[arXiv]](https://arxiv.org/abs/2607.25244)
 <br>
 ECG Foundation Models · Sparse Autoencoders · Interpretability
 
-<span style="color: #b31b1b;">**Weill Cornell Medicine & Houston Methodist Hospital**</span>
+<img class="svg" src="/images/Cornell.png" width="60pt"> <img class="svg" src="/images/methodist.png" width="60pt"> <span style="color: #b31b1b;">**Weill Cornell Medicine & Houston Methodist Hospital**</span>
 <br>
 *May 2026 - Present*, Worked with [Sadeer Al-Kindi](https://vivo.weill.cornell.edu/display/cwid-saa2025)
 <br>
