@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, I am **Jay Yixuan Duan**.
 
-I am a junior student at the **University of Wisconsin-Madison**. I am working with Professor [Wei Qiu](https://profiles.rice.edu/faculty/wei-qiu), [Lei Hou](https://scholar.google.com/citations?user=gwHifcYAAAAJ&hl=en), and [Hanwen Xu](https://scholar.google.com/citations?user=HwO7L5sAAAAJ&hl=zh-CN). Before that, I worked with Dr. [Chao Wang](https://szbl.ac.cn/research/groups/Chao-Wang.htm). My work focuses on biomedical foundation models, interpretable AI, multi-omics integration, and AI for precision health. I am going to apply for 27 Fall PHD in Computer Science, Computational Biology and Bioinformatics.
+I am a junior student at the **University of Wisconsin-Madison**. I am working with Professor [Wei Qiu](https://profiles.rice.edu/faculty/wei-qiu), [Lei Hou](https://scholar.google.com/citations?user=gwHifcYAAAAJ&hl=en), [Hanwen Xu](https://scholar.google.com/citations?user=HwO7L5sAAAAJ&hl=zh-CN), and [Sadeer Al-Kindi](https://vivo.weill.cornell.edu/display/cwid-saa2025). Before that, I worked with Dr. [Chao Wang](https://szbl.ac.cn/research/groups/Chao-Wang.htm). My work focuses on biomedical foundation models, interpretable AI, multi-omics integration, and AI for precision health. I am going to apply for 27 Fall PHD in Computer Science, Computational Biology and Bioinformatics.
 
 <span class='anchor' id='-edu'></span>
 
