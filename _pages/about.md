@@ -83,6 +83,12 @@ arXiv preprint, 2026. [[arXiv]](https://arxiv.org/abs/2607.25244)
 <br>
 ECG Foundation Models · Sparse Autoencoders · Interpretability
 
+<span style="color: #b31b1b;">**Weill Cornell Medicine & Houston Methodist Hospital**</span>
+<br>
+*May 2026 - Present*, Worked with [Sadeer Al-Kindi](https://vivo.weill.cornell.edu/display/cwid-saa2025)
+<br>
+Echocardiography · ECG · Interpretability · Foundation Models
+
 <img class="svg" src="/images/logo-bu.svg" width="75pt"> <span style="color: #cc0000;">**Boston University**</span>
 <br>
 *Jan. 2026 - Present*, Worked with Professor Lei Hou
