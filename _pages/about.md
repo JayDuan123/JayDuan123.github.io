@@ -85,7 +85,7 @@ ECG Foundation Models · Sparse Autoencoders · Interpretability
 
 <img class="svg" src="/images/Cornell.png" width="60pt"> <img class="svg" src="/images/methodist.png" width="60pt"> <span style="color: #b31b1b;">**Weill Cornell Medicine & Houston Methodist Hospital**</span>
 <br>
-*May 2026 - Present*, Worked with [Sadeer Al-Kindi](https://vivo.weill.cornell.edu/display/cwid-saa2025)
+*May 2026 - Present*, Worked with Sadeer Al-Kindi
 <br>
 Echocardiography · ECG · Interpretability · Foundation Models
 
