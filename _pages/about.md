@@ -79,19 +79,19 @@ arXiv preprint, 2026. [[arXiv]](https://arxiv.org/abs/2607.25244)
 
 <img class="svg" src="/images/rice.png" width="45pt"> <span style="color: #00205b;">**Rice University**</span>
 <br>
-*Feb. 2026 - Present*, Advisor: Professor Wei Qiu
+*Feb. 2026 - Present*, Worked with Professor Wei Qiu
 <br>
 ECG Foundation Models · Sparse Autoencoders · Interpretability
 
 <img class="svg" src="/images/logo-bu.svg" width="75pt"> <span style="color: #cc0000;">**Boston University**</span>
 <br>
-*Jan. 2026 - Present*, Advisor: Professor Lei Hou
+*Jan. 2026 - Present*, Worked with Professor Lei Hou
 <br>
 Multi-omics Integration · scATAC-seq · DNA Methylation
 
 <img class="svg" src="/images/szbl.png" width="85pt"> <span style="color: #1765ad;">**Shenzhen Bay Laboratory**</span>
 <br>
-*Jun. 2025 - Aug. 2025*, Advisor: Dr. Chao Wang
+*Jun. 2025 - Aug. 2025*, Worked with Dr. Chao Wang
 <br>
 Glycan–Protein Binding · Molecular Modeling
 
