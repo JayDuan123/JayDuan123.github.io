@@ -79,28 +79,22 @@ arXiv preprint, 2026. [[arXiv]](https://arxiv.org/abs/2607.25244)
 
 <img class="svg" src="/images/rice.png" width="45pt"> <span style="color: #00205b;">**Rice University**</span>
 <br>
-**Discovering interpretable features in foundation models via sparse autoencoders**
+*Feb. 2026 - Present*, Advisor: Professor Wei Qiu
 <br>
-*Apr. 2026 - Present*, Advisor: Professor Wei Qiu, Department of Electrical and Computer Engineering, Rice University
-
-<img class="svg" src="/images/rice.png" width="45pt"> <span style="color: #00205b;">**Rice University**</span>
-<br>
-**Disentangling aging-related signals in foundation model representations**
-<br>
-*Feb. 2026 - Apr. 2026*, Advisor: Professor Wei Qiu, Department of Electrical and Computer Engineering, Rice University
-
+ECG Foundation Models · Sparse Autoencoders · Interpretability
 
 <img class="svg" src="/images/logo-bu.svg" width="75pt"> <span style="color: #cc0000;">**Boston University**</span>
 <br>
-**Graph-based integration model of scATAC-seq and DNA methylation**
+*Jan. 2026 - Present*, Advisor: Professor Lei Hou
 <br>
-*Jan. 2026 - Present*, Advisor: Professor Lei Hou, Department of Medicine, Biomedical Genetics Section, Boston University
-<br>
+Multi-omics Integration · scATAC-seq · DNA Methylation
+
 <img class="svg" src="/images/szbl.png" width="85pt"> <span style="color: #1765ad;">**Shenzhen Bay Laboratory**</span>
 <br>
-**Modeling glycan-protein binding strength**
+*Jun. 2025 - Aug. 2025*, Advisor: Dr. Chao Wang
 <br>
-*Jun. 2025 - Aug. 2025*, Advisor: Dr. Chao Wang, Institute of Systems and Physical Biology, Shenzhen Bay Laboratory
+Glycan–Protein Binding · Molecular Modeling
+
 <span class='anchor' id='-skills'></span>
 
 # 💪 Skills
