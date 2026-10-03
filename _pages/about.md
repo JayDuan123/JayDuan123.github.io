@@ -49,7 +49,9 @@ I am a junior student at the **University of Wisconsin-Madison**. I am working w
 <div class='paper-box-text' markdown="1">
 **OpenTumorBoard: A Real-World Benchmark of Multidisciplinary Tumor Board Discussion Trajectories**
 
-Anqi Li, Zhixuan Ge, `Yixuan Duan`, Jiarong Qian, Chi-Yu Chen, MingYu Lu, Huan-Yu Hsu, Yu Gu, Yue Guo, Sheng Wang, Wei Qiu, Hanwen Xu
+Anqi Li<sup>*</sup>, Zhixuan Ge, `Yixuan Duan`<sup>*</sup>, Jiarong Qian, Chi-Yu Chen, MingYu Lu, Huan-Yu Hsu, Yu Gu, Yue Guo, Sheng Wang, Wei Qiu, Hanwen Xu
+
+<small><sup>*</sup>Equal contribution.</small>
 
 Preprint, arXiv:2609.32810, 2026. [arXiv](https://arxiv.org/abs/2609.32810)
 
