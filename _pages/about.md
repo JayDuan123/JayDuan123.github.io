@@ -45,6 +45,20 @@ I am a junior student at the **University of Wisconsin-Madison**. I am working w
 
 # 📖 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/opentumorboard-cover.png' alt="OpenTumorBoard benchmark overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**OpenTumorBoard: A Real-World Benchmark of Multidisciplinary Tumor Board Discussion Trajectories**
+
+Anqi Li, Zhixuan Ge, `Yixuan Duan`, Jiarong Qian, Chi-Yu Chen, MingYu Lu, Huan-Yu Hsu, Yu Gu, Yue Guo, Sheng Wang, Wei Qiu, Hanwen Xu
+
+Preprint, arXiv:2609.32810, 2026. [arXiv](https://arxiv.org/abs/2609.32810)
+
+- Built a real-world benchmark from multidisciplinary tumor board discussions with multimodal clinical observations and longitudinal patient histories.
+- Evaluated LLMs in specialist-turn response and full board-simulation settings for clinically grounded cancer decision-making.
+- Supported benchmark construction and analysis for model adaptation, clinical-equivalence scoring, and consensus-alignment evaluation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='/images/cadence.png' alt="CADENCE pipeline" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **CADENCE: A Cardiac Atom Dictionary for Interpretable Neural Concept Extraction from ECG Foundation Models**
