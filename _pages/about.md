@@ -67,7 +67,7 @@ Preprint, arXiv:2609.32810, 2026. [arXiv](https://arxiv.org/abs/2609.32810)
 
 `Yixuan Duan`, Arjun Naik, Sadeer Al-Kindi, Wei Qiu
 
-Under review. [[arXiv]](https://arxiv.org/abs/2607.25244)
+Accepted, KDD 2027 AI for Science Track. [[arXiv]](https://arxiv.org/abs/2607.25244)
 
 - Built a dictionary of interpretable "cardiac atoms" to decompose the internal representations of ECG foundation models.
 - Extracted human-understandable neural concepts from learned features and linked them to clinically meaningful cardiac patterns.
