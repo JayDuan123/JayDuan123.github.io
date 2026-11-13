@@ -87,7 +87,7 @@ Accepted, KDD 2027 AI for Science Track. [[arXiv]](https://arxiv.org/abs/2607.25
 
 `Yixuan Duan`, Wei Qiu
 
-Under review. [[arXiv]](https://arxiv.org/abs/2607.27404)
+Plan to submit to ACL ARR. [[arXiv]](https://arxiv.org/abs/2607.27404)
 
 - Proposed a capacity-controlled benchmark that compares representation-level interpretability across six frozen ECG foundation models under a matched sparse-autoencoder protocol.
 - Built a 450-cell matched-scale interpretability atlas over five encoder depths, five dictionary widths, and three seeds, with leakage-controlled metrics for sparse reconstruction fidelity, single-feature clinical concept accessibility and coverage (49 ECG measurements), and cross-seed reproducibility.
