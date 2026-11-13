@@ -41,6 +41,12 @@ I am a junior student at the **University of Wisconsin-Madison**. I am working w
 - Interpretable AI
 - Multi-omics Integration
 
+<span class='anchor' id='-news'></span>
+
+# News
+
+- **CADENCE** was accepted to the KDD 2027 AI for Science Track. [[arXiv]](https://arxiv.org/abs/2607.25244)
+
 <span class='anchor' id='-pub'></span>
 
 # 📖 Publications
